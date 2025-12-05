@@ -1,3 +1,10 @@
+请我喝杯咖啡
+![c34d5b65303bb32c182a259d4a1be27e](https://github.com/user-attachments/assets/5ed4ce28-1635-4f23-be2c-3599084eb6ca)
+
+加我好友，请备注**AI**
+![216d23c6c4951ebbae60144883ee6b70](https://github.com/user-attachments/assets/f8838c73-c6fd-4c0d-82fc-05cef2b2cf05)
+
+
 # 智能多CLI编排系统 (AI Orchestrator)
 
 > 让Claude Code自动协调多个AI工具（Sonnet、Codex、Gemini）完成需求分析→代码生成→代码审查的完整工作流
@@ -167,12 +174,4 @@ npm install -g @google/gemini-cli
 
 欢迎提Issue和PR！
 
-## 📄 开源协议
 
-MIT License
-
----
-
-**项目灵感来源**：老金的实战经验分享（感谢老金！）
-
-**作者**：老金（披着文化外衣的痞子流氓程序员）
